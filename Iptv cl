@@ -29,10 +29,14 @@ http://newultra.xyz:8080/75910668/22042022/39807
 http://newultra.xyz:8080/75910668/22042022/39795
 
 #EXTINF:-1,C13 rec tv
+#EXTINF:-1 tvg-name="chi || mega hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/2015megaoficial.png" group-title="CHILE",CHI || Mega HD
 
+http://newultra.xyz:8080/75910668/22042022/39788
 http://newultra.xyz:8080/75910668/22042022/39808
 
 #EXTINF:-1,C13 I
 
 http://newultra.xyz:8080/75910668/22042022/39797
 
+#EXTINF:-1 tvg-name="chi || mega hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/2015megaoficial.png" group-title="CHILE",CHI || Mega HD
+http://newultra.xyz:8080/75910668/22042022/39788
